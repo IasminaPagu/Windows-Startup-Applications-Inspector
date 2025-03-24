@@ -1,0 +1,16 @@
+numele laptopului meu este DESKTOP-OOTGTE5
+
+
+Aplicatiile pornite de SO inainte de autentificare sunt:
+
+SecurityHealth: %windir%\system32\SecurityHealthSystray.exe
+RtkAudUService: "C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_c7598999a3513b7d\RtkAudUService64.exe" -background
+
+
+Aplicatiile pornite de SO pentru utilizatorul curent sunt:
+
+OneDrive: "C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background
+Discord: "C:\Users\Iasmina\AppData\Local\Discord\Update.exe" --processStart Discord.exe
+MicrosoftEdgeAutoLaunch_907EC5FD594431E8E5104A211902969F: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start
+Microsoft.Lists: C:\Program Files\Microsoft OneDrive\25.035.0223.0003\Microsoft.SharePoint.exe
+Docker Desktop: C:\Program Files\Docker\Docker\Docker Desktop.exe -Autostart
