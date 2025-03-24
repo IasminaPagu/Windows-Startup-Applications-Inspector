@@ -1,1 +1,3 @@
-# tema1
+# Windows Startup Applications Inspector
+
+This is a command-line application for Windows...
